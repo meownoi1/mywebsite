@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(63, 24, 146, 0.53);
+}
+p{
+    size: 40px;
+    color: rgb(66, 25, 142);
+}
+img{
+    background-color: rgb(0, 0, 0);
+}
+/*การระบุแบบคลาส*/
+.mushroom{
+    background-color: rgb(53, 13, 19);
+}
+.broccoli{
+    background-color: #092506;
+}
+.Strawberry{
+    background-color: #53011f;
+}
+.cireclar{ /*สร้างวงกลม*/
+    border-radius: 100%;
+}
+/*ทำไอดี เรียกใช้ไอดีใน index*/
+#heading{
+    color: #ffaf02;
+}
